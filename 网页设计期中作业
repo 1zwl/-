@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>这就是我的家乡</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+  <!-- Custom styles for this template -->
+  <link href="css/clean-blog.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">It's my hometown</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        目录
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+          <a class="nav-link" href="about.html">了解嵊州</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="food.html">嵊州美食</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="play.html">游玩路线</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Header -->
+  <header class="masthead" style="background-image: url('img/sz1.jpg')">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="page-heading">
+            <h1>嵊州</h1>
+            <span class="subheading">东南山水越为最，越地风光剡领先</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <p>这是zwl的第一个网页</p> 
+        <p>介绍自己最熟悉的地方--嵊州！ 这个生我养我的地方</p>
+        <a href="#">
+          <img class="img-fluid" src="img/bg4.jpg" alt="">
+        </a>
+        <p>它有好多我的故事 记录着我的成长</p>
+        <p>也希望大家都能了解它 喜欢它</p>  
+      </div>
+    </div>
+  </div>
+
+  
+  <hr>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <ul class="list-inline text-center">
+            <li class="list-inline-item">
+              <a href="#">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+          </ul>
+          <p class="copyright text-muted">Copyright &copy; 我的网页设计 2019</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/clean-blog.js"></script>
+
+</body>
+
+</html>
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>这就是我的家乡</title>
+  
+  
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+  <!-- Custom styles for this template -->
+  <link href="css/clean-blog.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">It's my hometown!</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        目录
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="about.html">了解嵊州</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="food.html">嵊州美食</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="play.html">游玩路线</a>
+          </li>
+
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+
+  <!-- Page Header -->
+  <header class="masthead" style="background-image: url('img/sz3.jpg')">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="site-heading">
+            <h1>走进嵊州 了解嵊州 </h1>
+            <span class="subheading">It's shengzhou province.</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="post-preview">
+          <a href="post.html">
+            <h2 class="post-title">
+              嵊州
+            </h2>
+           
+          </a>
+          <a href="https://baike.baidu.com/item/嵊州/2586538?fr=aladdin">嵊州，是浙江省绍兴市所辖的一个县级市，地处浙江中部偏东，曹娥江上游，东邻奉化和余姚，南毗新昌、东阳，西连诸暨，北接上虞，全市总面积1784.43平方公里，是全国第一批经济开放县（市）、全国县域经济基本竞争力百强县市。早在秦汉时就建县称剡，唐初曾设嵊州，北宋年间始名嵊县，至今已有2150多年历史。嵊州是越剧故乡，风景如画、人文荟萃，有书圣故里、天下第一瀑、绍兴温泉城等。</a>      
+            <a href="#">网页设计</a>
+              03-24, 2019</p>
+        </div>
+        <hr>
+        <div class="post-preview">
+          <a href="post.html">
+            <h2 class="post-title">
+              要了解一个地方，你一定想要了解：
+            </h2>
+            <h3 class="post-subtitle">
+              1、有什么好玩的？
+              <br>2、有什么好吃的？
+              <br>3、有什么历史文化？
+            </h3>
+            <p>那就继续看下去吧！！</p>
+          </a>
+          <p class="post-meta">发布于
+            <a href="#">zwl</a>
+              04-24, 2019</p>
+        </div>
+        <hr>
+        <!-- Pager -->
+        <div class="clearfix">
+          <a class="btn btn-primary float-right" href="#">继续 &rarr;</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <hr>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <ul class="list-inline text-center">
+            <li class="list-inline-item">
+              <a href="#">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+          </ul>
+          <p class="copyright text-muted">Copyright &copy; 我的网页设计 2019</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/clean-blog.js"></script>
+
+  <style type="text/css">
+    .page{            text-align: center;            margin-top: 50px;        }
+  .page a{            text-decoration: none;            border:1px solid #f9d52b;            padding: 5px 7px;            color: #767675;            cursor: pointer;        }
+    </style>
+
+<div class="page">
+  <a href="about.html">1</a>
+  <a href="food.html">2</a>
+  <a href="play.html">3</a>
+    </div>
+
+</body>
+
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>这就是我的家乡</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+  <!-- Custom styles for this template -->
+  <link href="css/clean-blog.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">It's my hometown!</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        目录
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="about.html">了解嵊州</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="food.html">嵊州美食</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="play.html">游玩路线</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Header -->
+  <header class="masthead" style="background-image: url('img/sz5.jpg')">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="post-heading">
+            <h1>嵊州美食</h1>
+            <h2 class="subheading">这是一个让人垂涎三尺的内容</h2>
+            <span class="meta">发布于
+               04-23，2019</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+<!-- Main Content -->
+<div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <p>嵊州是绍兴市所辖的县级市 
+           越剧大概是嵊州最具代表的名片
+        </p> 
+        <p>但这些可能不足以让你了解嵊州，那么，食物，绝对是了解一座城市最快速也是最好的方式。</p>
+        <p>如果问我，你最爱家乡的什么，我会毫不犹豫的说，吃的。</p>
+        <p>嵊州，有着丰富的小吃体系，无论是最有名的小笼包，还是炒年糕，榨面，汤包....</p>
+        <a href="#">
+          <img class="img-fluid" src="img/food.jpg" alt="">
+        </a>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="post-preview">
+            <a href="post.html">
+              <h2 class="post-title">
+                下面......就是嵊州美食登场！
+              </h2>
+
+          <span class="caption text-muted"></span>
+
+          <h3 class="second-setion">嵊州小笼包</h3>
+          <p>嵊州小吃中，小笼包是当之无愧的代表。也是嵊州人最爱的早餐之一。每天早上来一屉热气腾腾的小笼包，没有比这更令人清醒的事情了。</p>
+          <a href="#">
+              <img class="img-fluid" src="img/food1.jpg" alt="">
+            </a>
+            <a href="#">
+              <img class="img-fluid" src="img/food2.jpg" alt="">
+            </a>
+          <p>虽说都是小笼包，但是和上海苏州等其他地方的小笼包也不一样。</p>
+          <p>嵊州的小笼包，不只是鲜肉馅儿，还有豆腐馅儿，皮子也有两种，薄皮和发面</p>
+          <a href="#">
+            <img class="img-fluid" src="img/food3.jpg" alt="">
+          </a>
+          <a href="#">
+              <img class="img-fluid" src="img/food4.jpg" alt="">
+          </a>
+          <a href="#">
+            <img class="img-fluid" src="img/food5.jpg" alt="">
+          </a>
+          <span class="caption text-muted">嵊州小笼包</span>
+
+          <h3 class="second-setion">汤包 不是带汤的包子</h3>
+          <p>汤包和小笼包是嵊州早餐中的两大巨头。和馄饨不一样的是，汤包的肉非常少，和米粒一般的大小。虽然肉少但是又缺一不可，很好地提升了汤包的鲜，吃在嘴里正正好。</p>
+          <p>汤包的皮四四方方一小片，皮子非常薄，肉馅儿肥瘦相间剁得非常细碎。</p>
+          <p>汤包的包法，看似随意简单，筷子挑起一点肉放到皮子上，手一握即可，但其实内有门道。</p>
+          <p>包好的汤包，在沸水中煮一会儿即可捞出，虽然皮薄，但是并不会因为过水而变得软烂，口感很是滑嫩，而且汤底也非常简单，紫菜，榨菜，葱花，猪油，盐以及开水，但是不会觉得寡淡无味，反而很鲜美。</p>
+          <a href="#">
+            <img class="img-fluid" src="img/food6.jpg" alt="">
+          </a>
+          <a href="#">
+            <img class="img-fluid" src="img/food7.jpg" alt="">
+          </a>
+          <span class="caption text-muted">嵊州小汤包</span>
+
+          <h2 class="third-setion">春饼</h2>
+          <p>嵊州的春饼和东北以及北方煎饼果子都不一样。</p>
+          <a href="#">
+              <img class="img-fluid" src="img/food8.jpg" alt="">
+            </a>
+          <p>首先是饼皮，春饼是简单的面粉水盐制成，面糊具有韧性，制作的时候抓起一小团面糊在盘上一抹，最后成品是一张薄透的小圆饼，饼身因为薄，所以带点脆</p>
+          <p>春饼有很多搭配方法，最嵊州的大概就是臭豆腐和油墩菇了。油墩菇是将面糊放入圆形铁勺中，里面加入萝卜丝，南瓜丝或者蒲瓜丝馅儿炸制而成。蘸上甜面酱直接吃或者包春饼都好吃。</p>
+          <a href="#">
+              <img class="img-fluid" src="img/food9.jpg" alt="">
+            </a>
+          <p>还有一种裹法就是里面放上猪头肉，也很好吃。</p>
+          <a href="#">
+              <img class="img-fluid" src="img/food10.jpg" alt="">
+            </a>
+            <span class="caption text-muted">嵊州春饼</span>
+
+
+            <h3 class="second-setion">嵊州炒年糕，是带汤的。</h3>
+            <p>嵊州的豆腐炒年糕，和小笼包齐名，是最具代表的嵊州美食之一，也是我个人最爱的食物。在嵊州，几乎家家户户都能做，也是日常的主食之一。</p>
+            <a href="#">
+              <img class="img-fluid" src="img/food11.jpg" alt="">
+            </a>
+            <p>嵊州的年糕，我们方言叫“麻糍”，用晚米做成。吃的时候可以切成条，也可以切成片。豆腐年糕就是切成细长条的年糕。</p>
+            <a href="#">
+              <img class="img-fluid" src="img/food12.jpg" alt="">
+            </a>
+            <a href="#">
+                <img class="img-fluid" src="img/food13.jpg" alt="">
+              </a>
+            <span class="caption text-muted">嵊州麻糍</span>
+  
+
+            <h2 class="third-setion">嵊州的榨面，不是米线。</h2>
+            <a href="#">
+                <img class="img-fluid" src="img/food14.jpg" alt="">
+              </a>
+            <p>榨面是嵊州特色代表之一。你可能会觉得，这不是米线或者粉丝么？其实不然，榨面无论是原料还是制作工艺上，以及口感，都和粉丝米线不一样。榨面，嵊州特有。
+                做法很多。可以炒榨面，也可以放榨面（带汤的说法），也可以搭配鸡汁羹。一日三餐都可以吃。</p>
+                <a href="#">
+                    <img class="img-fluid" src="img/food15.jpg" alt="">
+                  </a>
+                <p>炒榨面，是榨面最具代表的一道做法。你可以只加一个鸡蛋一撮葱花就完成一道炒榨面，也可以加各种蔬菜肉类榨菜配料。</p>
+            <a href="#">
+                <img class="img-fluid" src="img/food9.jpg" alt="">
+              </a>
+            <p>榨面需要用热水提前泡软再炒制 
+                为了根根分明，必须油多，并且不断用筷子撩拨。
+                成品的炒榨面十分干香丰富，非常好吃。
+            </p>
+            <a href="#">
+                <img class="img-fluid" src="img/food16.jpg" alt="">
+              </a>
+              <span class="caption text-muted">榨面</span>
+              <p>炒榨面因为比较干，所以它有最佳cp—虾皮紫菜汤。</p>
+
+              <br>当然 ，嵊州的美食远远不止这些，如果想了解更多，请点击下图：
+              <a href="http://baijiahao.baidu.com/s?id=1601453406180295525&wfr=spider&for=pc"><img src="img/111.jpg" ></a>
+
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <hr>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <ul class="list-inline text-center">
+            <li class="list-inline-item">
+              <a href="#">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+          </ul>
+          <p class="copyright text-muted">Copyright &copy; 我的网页设计 2019</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/clean-blog.js"></script>
+
+</body>
+
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"> 
+	<title>嵊州哪里玩</title>
+	<link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css">  
+	<script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
+	<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<style>
+    .fakeimg {
+        height: 200px;
+         background:#aaa;
+    }
+  </style>
+</head>
+<body>
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <h1>嵊州哪里玩</h1>
+  <p>我在这里 设置了一些游玩路线 给大家参考！</p> 
+</div>
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#">shengzhou</a>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h2>崇仁古镇</h2>
+      <h5> </h5>
+      <div class="fakeimg"> 
+        <img  src="p1.jpg" style="width:360px;height:200px;">
+      </div>
+      <h3>链接</h3>
+      <p>想了解更多嵊州旅游，点击下方：</p>
+      <ul class="nav nav-pills nav-stacked">
+        <li class="active"><a href="http://www.mafengwo.cn/jd/20996/gonglve.html">马蜂窝</a></li>
+        <li><a href="https://you.ctrip.com/place/shengzhou553.html">携程旅游</a></li>
+        <li><a href="http://www.sz0575.com/portal.php">嵊州信息港</a></li>
+      </ul>
+      <hr class="hidden-sm hidden-md hidden-lg">
+    </div>
+    <div class="col-sm-8">
+      <h2>金庭观</h2>
+      <h5>王羲之故居</h5>
+      <div class="fakeimg">
+          <img  src="p3.jpg" style="width:750px;height:200px;">
+      </div>
+      <p>王羲之故居位于嵊州市市区东25公里的金庭镇，这里四面环山， 故居坐落在这幽幽的山谷之中。</p>
+      <p>王羲之故居系列建筑有金庭观、书圣殿、右军祠、雪溪书院、潺湲阁，这里还有书圣墓、书法园林、书画长廊、放鹤亭等。一年一度的书法朝圣节，使景区处处洋溢着浓浓的诗情和墨香。
+          相邻的华堂古村，是王羲之后裔聚居地。王氏宗祠高高飞翘的屋檐和镂空的雕花，以及屋顶两端的乌龙甩尾，向人昭示着王氏家族的气派。悠长的弄堂，串联起一个又一个古老的台门，蕴含着明清时的安逸和雅致。</p>
+      <br>
+      <h2>百丈飞瀑</h2>
+      <h5>可以漂流哦！！</h5>
+      <div class="fakeimg">
+          <img  src="p4.jpg" style="width:750px;height:200px;">
+      </div>
+      <p>百丈飞瀑漂流（隶属于嵊州市百丈飞瀑漂流有限公司）位于浙江嵊州市石璜镇境内，是国家AAA级旅游区江南第一瀑布群——百丈飞瀑景点之一，距嵊州市区约26公里，核心辐射沪杭甬金温衢地区、交通便捷，是长三角户外休闲运动的理想选择。</p>
+      <p>百丈飞瀑漂流，全程约3公里，总体落差80余米，落差区位60余个，惊险刺激河段达10余处，漂流游程约90分钟。水质清，流量大，游客可 随到随漂。</p>
+    </div>
+  </div>
+</div>
+
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <p>欢迎大家来嵊州游玩！！</p>
+</div>
+</body>
+</html>
